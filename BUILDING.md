@@ -16,7 +16,7 @@ downloading a prepared zip file from Github.
 We recommend you fork the repo on GitHub, then clone your fork:
 
 ```
-git clone --recurse-submodules https://github.com/<USERNAME>/Signal-iOS.git
+git clone --recurse-submodules https://github.com/wormeyman/Signal-iOS.git
 ```
 
 You can then add the Signal repo to sync with upstream changes:
